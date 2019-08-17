@@ -32,7 +32,9 @@ API
 Custom - Build custom connector
 
 ## Drag & Drop Visual Data Pipeline Designer
-<img style="width:100%;" src="dm-workfloow.jpeg">
+
+<img style="width:100%;" src="dm-workflow.jpeg">
+
 Data management service UI provides drag and drop visual designer, where components can be dragged from the palette and connected together to form complex data pipelines.
 
 Data pipeline components are classified in following categories:
