@@ -1,6 +1,6 @@
 # Data-Management
 
-<img style="width:100%;" src="dm.jpeg">
+<img style="width:100%;" src="images/dm.jpeg">
 
 Insight Lake data management service enables data administrators to ingest data from various sources, validate, standardize, clean, enrich and process to provide value to business users.
 
@@ -20,7 +20,7 @@ Version control, Metadata and Data Governance Integration
 Prepare and Ingest data
 Ingest data in minutes from anywhere and any type without writing code. Prepare, cleanse, and enrich using code-free data wrangler and built-in transformation plugins. Blend data from traditional RDBMS to Data Warehouse to Hadoop
 
-<img style="width:100%;" src="dm-source.jpeg">
+<img style="width:100%;" src="images/dm-source.jpeg">
 
 Kafka - Real time streams
 DB - Oracle, MySQL...
@@ -33,7 +33,7 @@ Custom - Build custom connector
 
 ## Drag & Drop Visual Data Pipeline Designer
 
-<img style="width:100%;" src="dm-workflow.jpeg">
+<img style="width:100%;" src="images/dm-workflow.jpeg">
 
 Data management service UI provides drag and drop visual designer, where components can be dragged from the palette and connected together to form complex data pipelines.
 
@@ -49,7 +49,7 @@ Created data workflows can be scheduled to run always or at specified schedule. 
 
 ## Explore data
 
-<img style="width:100%;" src="dm-data.jpeg">
+<img style="width:100%;" src="images/dm-data.jpeg">
 
 Ingested or transformed data stored at any location like Kafka, HDFS, S3, Hive, MySQL, Oracle, SOLR etc can be explored easily using an intuitive data explorer.
 
@@ -57,7 +57,7 @@ Explorer also provides features like highlighting rows/cells, adding tags and no
 
 ## Visualize
 
-<img style="width:100%;" src="dm-dash.jpeg">
+<img style="width:100%;" src="images/dm-dash.jpeg">
 
 Ingested or transformed data can be easily visualized by creation of dashboards using Dashboard service. Basic charts like Histogram, Pie, Line, Donut, Tables, Maps etc can be easily created. Complex charts like Tree, Summary, Pivot, Linked tables, Force directed graphs can also be used.
 
@@ -67,7 +67,7 @@ Realtime charts could be used for operational dashboards.
 
 ## Data Reconciliation
 
-<img style="width:100%;" src="dm-recon.jpeg">
+<img style="width:100%;" src="images/dm-recon.jpeg">
 
 Data Reconciliation feature enables comparison of two data sets, which results in matching and non matching records. Data reconciliation can be done at various places, for example:
 
