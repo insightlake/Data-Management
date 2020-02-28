@@ -32,14 +32,16 @@ API
 Custom - Build custom connector
 
 ## Drag & Drop Visual Data Pipeline Designer
+* Workflow
+<img style="width:100%;" src="images/workflow-tab/workflow-page.png">
+
 * Designer View
 <img style="width:100%;" src="images/workflow-tab/workflow-designer.png">
 
 * Designer Properties
 <img style="width:100%;" src="images/workflow-tab/desinger-properties.png">
 
-* Workflow
-<img style="width:100%;" src="images/workflow-tab/workflow-page.png">
+
 
 
 
