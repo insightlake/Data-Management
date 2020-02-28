@@ -32,8 +32,16 @@ API
 Custom - Build custom connector
 
 ## Drag & Drop Visual Data Pipeline Designer
+* Designer View
+<img style="width:100%;" src="images/workflow-tab/workflow-designer.png">
 
-<img style="width:100%;" src="images/dm-workflow.jpeg">
+* Designer Properties
+<img style="width:100%;" src="images/workflow-tab/desinger-properties.png">
+
+* Workflow
+<img style="width:100%;" src="images/workflow-tab/workflow-page.png">
+
+
 
 Data management service UI provides drag and drop visual designer, where components can be dragged from the palette and connected together to form complex data pipelines.
 
@@ -49,7 +57,12 @@ Created data workflows can be scheduled to run always or at specified schedule. 
 
 ## Explore data
 
-<img style="width:100%;" src="images/dm-data.jpeg">
+* Data View
+<img style="width:100%;" src="images/data-tab/data-page.png">
+
+* Pivot Table View
+<img style="width:100%;" src="images/data-tab/pivot-table.png">
+
 
 Ingested or transformed data stored at any location like Kafka, HDFS, S3, Hive, MySQL, Oracle, SOLR etc can be explored easily using an intuitive data explorer.
 
