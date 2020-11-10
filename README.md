@@ -102,7 +102,7 @@ All changes related to data like data pipeline flows, reconciliation jobs, adjus
 ## Template Migration
 Data management allows migration of data pipeline templates, reconciliation jobs from lower environment to upper like DEV to QA to PROD by following approval process.
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://www.insightlake.com/data-management.html](http://www.insightlake.com/data-management.html)
 
 Installation
 ------
